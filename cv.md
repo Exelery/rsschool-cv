@@ -18,7 +18,7 @@
 
 * CSS
 
-* JavaScript
+* JavaScript basic
 
 * Solidity (Hardhat, OpenZeppelin, ether.js)
 
